@@ -9,7 +9,7 @@
 dotnet dev-certs https --trust
 ```
 
-1. 앱을 기동합니다.
+2. 앱을 기동합니다.
 ```zsh
 dotnet run # http
 dotnet run --launch-profile https
