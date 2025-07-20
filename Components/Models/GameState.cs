@@ -1,4 +1,4 @@
-namespace ConnectFour;
+namespace ConnectFour.Components.Models;
 
 public class GameState
 {
